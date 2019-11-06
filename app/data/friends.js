@@ -1,7 +1,7 @@
 var friendList = [
   {
-    name: 'Molly Levine',
-    profilePic: 'https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/36433950_10156349011402969_8655522797059047424_o.jpg?_nc_cat=109&_nc_ht=scontent-iad3-1.xx&oh=303b957d1557552d23daa50c831d3ede&oe=5D6D5BC1',
+    name: 'Pink Panther',
+    profilePic: 'https://previews.123rf.com/images/chutimakuanamon/chutimakuanamon1804/chutimakuanamon180400301/104747718-pink-panther-illustration-comedy-cartoon.jpg',
     scores: [
       "4",
       "5",
@@ -10,9 +10,7 @@ var friendList = [
       "4",
       "5",
       "4",
-      "4",
-      "3",
-      "4"
+      
     ]
   }
 ]
