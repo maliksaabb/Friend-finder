@@ -5,6 +5,7 @@ Friend Finder is a compatibility-based application (similar to a dating app). Th
 ## Installation
 To install the application follow the instructions below:
 
-``` *  git clone https://github.com/maliksaabb/Friend-finder
+``` 
+ *  git clone *https://github.com/maliksaabb/Friend-finder*
  *  cd friend-finder
  *  npm install
